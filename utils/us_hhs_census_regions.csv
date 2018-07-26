@@ -1,0 +1,55 @@
+State,Abbevriation,HHS Region,Census Region
+Alabama,AL,4,6
+Alaska,AK,10,9
+Arizona,AZ,9,8
+Arkansas,AR,6,7
+California,CA,9,9
+Colorado,CO,8,8
+Connecticut,CT,1,1
+Delaware,DE,3,5
+District of Columbia,DC,3,5
+Florida,FL,4,5
+Georgia,GA,4,5
+Guam,GU,9,10
+Hawaii,HI,9,9
+Idaho,ID,10,8
+Illinois,IL,5,3
+Indiana,IN,5,3
+Iowa,IA,7,4
+Kansas,KS,7,4
+Kentucky,KY,4,6
+Louisiana,LA,6,7
+Maine,ME,1,1
+Maryland,MD,3,5
+Massachusetts,MA,1,1
+Michigan,MI,5,3
+Minnesota,MN,5,4
+Mississippi,MS,4,6
+Missouri,MO,7,4
+Montana,MT,8,8
+Nebraska,NE,7,4
+Nevada,NV,9,8
+New Hampshire,NH,1,1
+New Jersey,NJ,2,2
+New Mexico,NM,6,8
+New York,NY,2,2
+North Carolina,NC,4,5
+North Dakota,ND,8,4
+Ohio,OH,5,3
+Oklahoma,OK,6,7
+Oregon,OR,10,9
+Pennsylvania,PA,3,2
+Pueto Rico,PR,2,10
+Rhode Island,RI,1,1
+South Carolina,SC,4,5
+South Dakota,SD,8,4
+Tennessee,TN,4,6
+Texas,TX,6,7
+Utah,UT,8,8
+Vermont,VT,1,1
+Virgin Islands,VI,2,10
+Virginia,VA,3,5
+Washington,WA,10,9
+West Virginia,WV,3,5
+Wisconsin,WI,5,3
+Wyoming,WY,8,8
